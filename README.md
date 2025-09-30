@@ -1,5 +1,17 @@
-# Vue 3 + TypeScript + Vite
+# 中国铁路 蓝票（报销凭证）のR.I.P
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+> 按照国家税务总局、财政部、国铁集团联合发布的2024年第8号公告，2025年10月1日起全国铁路客运领域将全面使用电子发票
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## 警告
+
+本页面仅用于纪念及展示中国铁路蓝票（报销凭证）的历史，请勿用于任何实际用途。
+
+## 来自作者的部署
+
+理论上自己随手敲一个静态服务器就能部署，但是我还是按惯例挂一个官方部署。
+
+[CRH 蓝票](https://crh-blue-ticket.pages.kuankuan.site/)
+
+## 开源
+
+本项目基于[Mulan PSL v2](./LICENSE)协议开源。
