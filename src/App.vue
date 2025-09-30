@@ -50,7 +50,7 @@
             <div class="number" contenteditable>114514.0</div>
             <div class="price-char">元</div>
           </div>
-          <div class="seat-type">二等座</div>
+          <div class="seat-type" contenteditable>二等座</div>
         </div>
         <div class="warning">本页面仅做纪念，无实际意义</div>
         <div class="box-4">
