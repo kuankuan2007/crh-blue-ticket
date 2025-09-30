@@ -12,15 +12,15 @@
             <div class="english" contenteditable>Chongqingxi</div>
           </div>
           <div class="arrow-area">
-            <div class="train-id" contenteditable>G123</div>
+            <div class="train-id" contenteditable>G9999</div>
             <img class="arrow" src="@/assets/arrow.svg"></img>
           </div>
           <div class="to">
             <div class="chinese">
-              <div class="station-name" contenteditable>广州南</div>
+              <div class="station-name" contenteditable>重庆北</div>
               <div class="station">站</div>
             </div>
-            <div class="english" contenteditable>Guangzhounan</div>
+            <div class="english" contenteditable>Chongqingbei</div>
           </div>
         </div>
         <div class="box-2">
@@ -37,17 +37,17 @@
             <div class="departure-char gap">开</div>
           </div>
           <div class="seat">
-            <div class="carriage number" contenteditable>03</div>
+            <div class="carriage number" contenteditable>20</div>
             <div class="carriage gap">车</div>
-            <div class="row number" contenteditable>02</div>
-            <div class="seat-id number" contenteditable>D</div>
+            <div class="row number" contenteditable>99</div>
+            <div class="seat-id number" contenteditable>E</div>
             <div class="seat-char gap">号</div>
           </div>
         </div>
         <div class="box-3">
           <div class="price-box">
             <div class="currency">¥</div>
-            <div class="number" contenteditable>481.0</div>
+            <div class="number" contenteditable>114514.0</div>
             <div class="price-char">元</div>
           </div>
           <div class="seat-type">二等座</div>
