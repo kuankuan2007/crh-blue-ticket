@@ -10,7 +10,7 @@
 @font-face {
   font-family: FangSong_GB2312;
   src: url('@/assets/FangSong_GB2312.woff2');
-  src: url('@/assets/FangSong_GB2312.ttf') format('truetype'),url('@/assets/FangSong_GB2312.woff') format('woff');
+  src: local('FangSong_GB2312'), url('@/assets/FangSong_GB2312.ttf') format('truetype'),url('@/assets/FangSong_GB2312.woff') format('woff');
 }
 @media print{
   :root {
