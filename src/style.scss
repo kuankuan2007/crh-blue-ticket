@@ -1,0 +1,14 @@
+@media (prefers-color-scheme: light) {
+  :root {
+    background-color: #bbbbbb;
+  }
+}
+:root {
+  background-color: #4e4e4e;
+  color: #000;
+}
+@font-face {
+  font-family: FangSong_GB2312;
+  src: url('@/assets/FangSong_GB2312.woff2');
+  src: url('@/assets/FangSong_GB2312.ttf') format('truetype'),url('@/assets/FangSong_GB2312.woff') format('woff');
+}
